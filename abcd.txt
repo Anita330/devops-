@@ -1,3 +1,9 @@
-hbdncdn
-ncdn
-dndm
+yum install git-core
+git config --global user.name "your_username"
+2 git config --global user.email "email@yourdomainname.com"
+git init
+git add temp.txt
+git commit –m “Message to go with the commit here”
+git status
+git push origin master
+
